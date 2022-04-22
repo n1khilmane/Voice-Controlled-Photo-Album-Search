@@ -1,4 +1,4 @@
-# text-and-voice-based-image-search
+# Voice Controlled Photo Album Search
 ## Description
 "Text and Voice based Image Search" is a serverless, microservice driven web-based application, that can be used to search images using natural language processing through both text and voice. We can upload and search photos similar to an image search engine. It is designed using multiple AWS components :-
 
